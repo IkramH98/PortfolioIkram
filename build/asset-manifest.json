@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb9c1c31.css",
+    "main.js": "/static/js/main.dd487c0b.js",
+    "static/media/project1.jpeg": "/static/media/project1.193eb653a895b4378ac4.jpeg",
+    "static/media/image.png": "/static/media/image.164440f6eb8307debe5d.png",
+    "static/media/project.jpeg": "/static/media/project.bbf9aa0c63e693d70572.jpeg",
+    "static/media/salveg pic.png": "/static/media/salveg pic.f6e6a3b52cf42841ba32.png",
+    "static/media/pinit.png": "/static/media/pinit.d180c032632d27e5c1dc.png",
+    "static/media/project2.jpeg": "/static/media/project2.ba5d996ac2b5eabf1209.jpeg",
+    "index.html": "/index.html",
+    "main.bb9c1c31.css.map": "/static/css/main.bb9c1c31.css.map",
+    "main.dd487c0b.js.map": "/static/js/main.dd487c0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9c1c31.css",
+    "static/js/main.dd487c0b.js"
+  ]
+}
